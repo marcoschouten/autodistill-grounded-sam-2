@@ -2,6 +2,6 @@ torch
 autodistill
 supervision
 roboflow
-autodistill_florence_2
+git+https://github.com/marcoschouten/autodistill-florence-2
 rf_groundingdino
 samv2
